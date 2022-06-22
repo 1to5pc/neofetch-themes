@@ -29,6 +29,11 @@ A project which aims at making your life more convinient by putting a bunch of n
 ---
 ![](https://cdn.discordapp.com/attachments/780366738536792064/948514982851665920/Screenshot_2022-03-02_15-37-18.png)
 
+![Mashed Fetch](https://github.com/1to5pc/neofetch-themes/blob/main/hybrid/config2.conf)
+---
+![](https://github.com/1to5pc/assets/blob/main/neofetch.png?raw=true)
+
+
 # Small:
 Note: you are required to manually change the distro ascii in the config
 
