@@ -31,7 +31,7 @@ A project which aims at making your life more convinient by putting a bunch of n
 
 ![Mashed Fetch](https://github.com/1to5pc/neofetch-themes/blob/main/hybrid/config2.conf)
 ---
-![](https://github.com/1to5pc/assets/blob/main/neofetch.png?raw=true)
+![](https://github.com/1to5pc/assets/blob/main/neofetch-mashedfetch.png?raw=true)
 
 
 # Small:
